@@ -1,2 +1,2 @@
 # SAMFO
-Systeme d'Aide au Management des interventions des Force de l'Ordre
+Systeme d'Aide au Management des interventions des Forces de l'Ordre
